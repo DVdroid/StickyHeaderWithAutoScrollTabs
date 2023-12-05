@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Apple_Watch_Ultra.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

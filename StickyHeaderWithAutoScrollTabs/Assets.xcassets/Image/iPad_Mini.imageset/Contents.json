@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "iPad Mini.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
